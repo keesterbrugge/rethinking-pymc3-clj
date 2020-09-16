@@ -1,0 +1,10 @@
+{
+ :deps {
+        clj-python/libpython-clj {:mvn/version "1.38" }
+        metasoarous/oz {:mvn/version "1.6.0-alpha6" }
+        techascent/tech.ml.dataset {:mvn/version "2.0-beta-18"}
+        applied-science/darkstar {:git/url "https://github.com/applied-science/darkstar/"
+                                  :sha "541a3ff36065c59e92fe6aa61e41a4385ba6f893"}
+        techascent/tech.datatype {:mvn/version "5.0-beta-9"}
+        }
+ }
